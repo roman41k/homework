@@ -1,4 +1,2 @@
-let quantity = prompt('Введите колличество товара');
-quantity = Number(quantity);
-console.log(quantity);
-console.log(typeof quantity);
+let salaray = 1300.4548485;
+console.log(Number(salaray.toFixed(2)));
